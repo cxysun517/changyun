@@ -1,0 +1,40 @@
+数据平台 2022-12-17 07:27:20
+【长运设备异常报警】
+区域: 中国
+设备ID: 6c4597e71b0888b93bmta2
+所属家庭: 嵌入式测试-7E-ssd212双联蓝牙网关家庭长运
+家庭ID: 69842907
+设备名称: ssd212双联蓝牙网关
+上报类型: 离线
+原因: closed
+上报时间: 2022-12-17 07:27:18
+详情点击: https://abcdefg-cn.abcd-inc.com:8888/#/dataCenter/home/dataCenterList?devId=6c4597e71b0888b93bmta2
+查看统计数据点击: https://abcdefg-cn.abcd-inc.com:8888/appdata/changyun-device
+
+
+数据平台 2022-12-17 07:37:56
+【长运设备异常报警】
+区域: 中国
+设备ID: 6c5f0ec0c9197a6093vhmb
+所属家庭: 嵌入式测试-7E-ssd212双联蓝牙网关家庭长运
+家庭ID: 69842907
+设备名称: RGBCW 41
+上报类型: 离线
+原因: 无
+上报时间: 2022-12-17 07:37:53
+详情点击: https://abcdefg-cn.abcd-inc.com:8888/#/dataCenter/home/dataCenterList?devId=6c5f0ec0c9197a6093vhmb
+查看统计数据点击: https://abcdefg-cn.abcd-inc.com:8888/appdata/changyun-device
+
+
+数据平台 2022-12-20 12:24:45
+【长运设备异常报警】
+区域: 中国
+设备ID: 6c2b69db8366518efc41ao
+所属家庭: 嵌入式测试-BLE-7楼屏蔽室长运
+家庭ID: 11651573
+设备名称: sigmeshBT8C线上5路球泡灯
+上报类型: 离线
+原因: 无
+上报时间: 2022-12-20 12:19:43
+详情点击: https://abcdefg-cn.abcd-inc.com:8888/#/dataCenter/home/dataCenterList?devId=6c2b69db8366518efc41ao
+查看统计数据点击: https://abcdefg-cn.abcd-inc.com:8888/appdata/changyun-device
